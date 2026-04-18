@@ -1,9 +1,5 @@
 
-# AgriSync  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+# AgrSync  
 
 This React application is designed to streamline and simplify the operations of agricultural management. The primary goal is to provide an intuitive interface for managing various aspects of a farm, including crops, equipment, vehicles, staff, fields, and crop monitoring.
 
@@ -38,7 +34,7 @@ This React application is designed to streamline and simplify the operations of 
 ## Clone the repository:
 
 ```bash
-  https://github.com/Bd-Mutant7/AgriSync
+  https://github.com/Nabeel-Farooq/AgriSync
 ```
 ## Configure project
 
@@ -84,7 +80,7 @@ Copyright © 2026 Bd-Mutant7
 
 </div> <br>
 <p align="center">
-  &copy; 2026 Bd-Mutant7
+  &copy; 2026 Nabeel
 </p>
 
 
