@@ -56,7 +56,7 @@ This React application is designed to streamline and simplify the operations of 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 Copyright © 2026 Nabeel
 
