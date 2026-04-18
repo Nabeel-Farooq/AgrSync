@@ -58,7 +58,7 @@ This React application is designed to streamline and simplify the operations of 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright © 2026 Bd-Mutant7
+Copyright © 2026 Nabeel
 
 ##
 <div align="center">
